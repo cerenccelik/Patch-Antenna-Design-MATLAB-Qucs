@@ -46,5 +46,4 @@ In `simulation.sch`, you may notice a secondary, isolated circuit (Port 2 termin
 2. **Simulate:** Open `simulation.sch` in Qucs-S.
 3. **Run:** Ensure Ngspice is selected as the default simulator and run the simulation to view S-parameters.
 
----
-*Created by Ceren Çelik*
+
