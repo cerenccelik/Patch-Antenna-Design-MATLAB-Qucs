@@ -6,13 +6,11 @@ This repository contains the design, calculation, and simulation of a rectangula
 
 The repository is organized as follows:
 
-- **`src/`**: Contains the source code.
+
   - `design.m`: MATLAB script that calculates antenna dimensions (Width, Length) and input impedance based on substrate properties.
-- **`simulation/`**: Contains the circuit simulation files.
   - `simulation.sch`: Qucs-S schematic setup for S-parameter (S11) analysis.
-- **`assets/`**: Contains visualization and result images.
-  - `patch_geometry.png`: Visual output of the calculated patch dimensions.
-  - `circuit_s11.png`: Schematic diagram and S11 simulation graph.
+  - `MATLAB_OUTPUT_FIGURE.png`: Visual output of the calculated patch dimensions.
+  - `circuit.png`: Schematic diagram and S11 simulation graph.
 
 ## Design Specifications
 
