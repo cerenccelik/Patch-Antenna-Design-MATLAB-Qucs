@@ -30,7 +30,7 @@ The MATLAB script (`design.m`) calculates the physical dimensions required for r
 ![Patch Geometry](MATLAB_OUTPUT_FIGURE.png)
 
 ### 2. Simulation (Qucs-S / Ngspice)
-The simulation (`simulation.sch`) results show a clear resonance at approximately **2.425 GHz** with a return loss (S11) of **-37.5 dB**, indicating excellent matching.
+The simulation (`simulation.sch`) results show a clear resonance at approximately **2.425 GHz** with a return loss (S11) of **-37.5 dB**, indicating matching.
 
 ![Circuit and S11 Result](circuit.png)
 
